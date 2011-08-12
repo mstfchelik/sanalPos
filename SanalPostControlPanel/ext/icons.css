@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+.icon-report { background-image: url("/image/icon/silk/report.png") ! important; }
+.icon-table { background-image: url("/image/icon/silk/table.png") ! important; }
+.icon-table_add { background-image: url("/image/icon/silk/table_add.png") ! important; }
+.icon-table_delete { background-image: url("/image/icon/silk/table_delete.png") ! important; }
+.icon-table_edit { background-image: url("/image/icon/silk/table_edit.png") ! important; }
+.icon-table_error { background-image: url("/image/icon/silk/table_error.png") ! important; }
+.icon-table_gear { background-image: url("/image/icon/silk/table_gear.png") ! important; }
+.icon-table_go { background-image: url("/image/icon/silk/table_go.png") ! important; }
+.icon-accept { background-image: url("/image/icon/silk/accept.png") ! important; }
+.icon-zoom { background-image: url("/image/icon/silk/zoom.png") ! important; }
+.icon-attach { background-image: url("/image/icon/silk/attach.png") ! important; }
+.icon-mobim { background-image: url("/image/icon/silk/mobimDuyuru.jpg") ! important; }
